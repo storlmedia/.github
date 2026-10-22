@@ -5,20 +5,41 @@ title: ""
 labels: bug
 ---
 
-**Description**
-What's wrong?
+## Problem
 
-**Steps to reproduce**
-1. Go to ...
-2. Click on ...
-3. See error
+<!-- What goes wrong? -->
 
-**Expected behavior**
-What should happen instead?
+## Context
 
-**Screenshots**
-If applicable, add screenshots to help explain the problem.
+<!-- Optional.
+Background around the problem that others might not know, like what led up to
+it, since when it happens or who is affected. -->
 
-**Environment**
-- Page/URL:
+## Steps to reproduce
+
+<!-- Start with the URL where the problem happens. If that URL doesn't open the
+affected view directly, add the clicks needed to get there. -->
+
+1. Open URL: …
+2. Click on …
+
+**Expected:** …
+**Actual:** …
+
+## Environment
+
+<!-- Optional.
+Fill in if the problem might only happen on certain devices or browsers, for
+example only on mobile or only in Safari. -->
+
 - Browser/device:
+
+## Screenshots
+
+<!-- Optional.
+Add screenshots if they help explain the problem. -->
+
+## Links
+
+<!-- Optional.
+Bullet list. Slack threads, documentation, external pages. -->
